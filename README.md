@@ -1,4 +1,4 @@
-# Maria Brió Pérez
+#Binayak Lamsal
 
 <p align="center">
   <a href="https://mariabrio.vercel.app">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
+  <a href="https:/github.com/JuditKaramazov">🌱 /lamsalbinayak187-ux</a>
 </p>
 <p align="center">
   <a href="https://karamazfolio.xyz/">📍 Portfolio</a>
@@ -31,7 +31,7 @@
 Table of Contents
 -----------------
 
-* [🔧 Getting Started](#-getting-started)
+
 * [🚪 Introduction](#-introduction)
 * [💾 Content](#-content)
 * [🔮 Features](#-features)
@@ -42,18 +42,6 @@ Table of Contents
 * [💄 Style](#-style)
 * [🥳 Immense thanks to them awesome Sponsors](#-immense-thanks-to-them-awesome-sponsors)
 * [🏛 License & Copyright](#-license--copyright)
-
----
-
-# 🔧 Getting Started
-
-As surprising as it might sound after such a long time experimenting with different libraries and frameworks, this project is based upon the essential elements giving our work _real_ sense: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [Sass](https://sass-lang.com/) (also known as "CSS with superpowers". Woah!), and minimal usage of [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Back to the roots, guys.
-
-Undoubtedly (and before someone tries to kill me), CSS is among the core languages of the open web and is standardized across Web browsers, as we all know. When it comes to Sass, it's usually described as the most mature, stable, and powerful professional-grade CSS extension language in the world. Actively supported and developed by a consortium of several tech companies and hundreds of developers, there are an endless number of frameworks built with Sass, like [Bootstrap](https://getbootstrap.com/), for instance. Quite an interesting frontend toolkit, in my opinion.
-
-Independently of that, and just in case you are not familiar with Sass, I would highly recommend giving the [New Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) a try now that the old one is deprecated. Keep something in mind, though: there is no "best" here. If anything, the "best" option will always be the one that fits _your specific needs_ better, so feel free to give different tools until you find **the** one for your future project!
-
----
 
 # 🚪 Introduction
 
@@ -75,7 +63,7 @@ Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess w
 
 | Section                                                  | Description                                                                                                                                                                                                                                                                                                                                                                               |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **About**                               | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: from her [LinkedIn](https://www.linkedin.com/in/mariabrioperez/) to her [Orcid](https://orcid.org/0000-0002-6328-9556) account, a site connecting research and researchers. You can even access her [doctoral thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-) or [download her CV](/assets/MariaBrioPerez-CV.pdf) from there!                                                                                                                                                                                              |
+| **About**                               | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: from her [LinkedIn](https://www.linkedin.com/in/binayak-lamsal-905032301/) to her [Upwork](https://www.upwork.com/freelancers/~0135e5d83ff7267825) account. You can even access her [doctoral thesis] or [download her CV](/assets/MariaBrioPerez-CV.pdf) from there!                                                                                                                                                                                              |
 | **Skills**      | 🛠️ **Technical expertise**, **project management**, **software**, **languages**... you name it! Everything has been organized under the shape of an **accordion** in order to make information as accessible as readable.                                                                                                                          |
 | **Experience**                             | 💼 Education? Work? Here, you'll find **both options**, with the proper experience displayed as a visual timeline. You have no excuse now, recruiters!                                                                                     |
 | **Articles**                             | 📑 Undoubtedly, articles are an essential part of the doctoral process. Although Maria already _nailed_ her oral defense (_believe me: I watched it, and it was impeccable_), she also published **several research articles**, just like the ones you can find in [Orcid](https://orcid.org/0000-0002-6328-9556). Here, we're only displaying the most recent ones, but it seemed a great idea to integrate them as visually and interactively as possible.                                                                                    |
